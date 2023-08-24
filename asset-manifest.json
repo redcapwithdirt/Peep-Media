@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Peep-Media/static/css/main.7064deb2.css",
+    "main.js": "/Peep-Media/static/js/main.dbd7dfca.js",
+    "index.html": "/Peep-Media/index.html",
+    "main.7064deb2.css.map": "/Peep-Media/static/css/main.7064deb2.css.map",
+    "main.dbd7dfca.js.map": "/Peep-Media/static/js/main.dbd7dfca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.dbd7dfca.js"
+  ]
+}
